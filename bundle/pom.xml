@@ -17,7 +17,7 @@
 
     <artifactId>bundle-test-bundle</artifactId>
     <packaging>bundle</packaging>
-    <name>Bundle Text Bundle</name>
+    <name>Bundle Test Bundle</name>
 
     <dependencies>
         <dependency>
