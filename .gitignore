@@ -1,0 +1,19 @@
+# eclipse-generated artifacts
+.project
+.settings
+.classpath
+bin
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.vlt
+*.iml
+*.idea
+
+# Maven generated target/* files #
+target/
+
+#Mac files
+.DS_Store
